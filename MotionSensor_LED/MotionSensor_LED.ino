@@ -1,3 +1,5 @@
+//Program: Motion Sensor & LED lights
+//Programmer: Kunal Lanjewar
 #include <MySensor.h>  
 #include <SPI.h>
 
